@@ -1,2 +1,0 @@
-require "simpleconv"
-SimpleCov.start
